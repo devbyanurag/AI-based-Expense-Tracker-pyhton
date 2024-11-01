@@ -13,3 +13,4 @@ typing_extensions==4.12.2
 uvicorn==0.32.0
 langchain_huggingface
 langchain_community
+apscheduler
